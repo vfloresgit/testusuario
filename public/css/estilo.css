@@ -1,0 +1,22 @@
+thead{
+  font-size: 13px;
+  text-align: center;
+}
+td{
+	font-size: 13px;
+}
+.botonaccion{
+   font-size: 15px;
+
+}
+.seccion button{
+    font-size: 13px;
+
+}
+.tabla .textgroup{
+	height: 30px;	
+}
+.tabla-principal a{
+	font-size: 20px;
+}
+
